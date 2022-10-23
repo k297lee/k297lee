@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @k297lee
-- 👀 Currently seeking Summer/Fall 2023 SWE Internships
+- 👀 Currently seeking Summer/Fall 2023 SWE/ML Internships
 - 🌱 Interested in distributed systems, quantitative analysis, and machine learning
 
 <!---
