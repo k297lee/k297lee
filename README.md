@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @k297lee
+- 👋 Hi, I’m Kyle!
+- 🏫 I'm currently studying as a 3rd year Computer Engineering student at the University of Waterloo
 - 👀 Currently seeking Summer/Fall 2023 SWE/ML Internships
 - 🌱 Interested in distributed systems, quantitative analysis, and machine learning
 
