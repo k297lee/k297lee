@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyle!
 - 🏫 I'm currently studying as a 4th year Computer Engineering student at the University of Waterloo
-- 👀 Currently seeking 2024 New Grad SWE/ML/QD Internships
+- 👀 Currently seeking 2024 New Grad SWE/ML
 - 🌱 Interested in distributed systems, trading infra, and machine learning
 
 <!---
